@@ -1,0 +1,55 @@
+{
+    "language": "vi",
+    "keyActive": "",
+    "DeveloperMode": false,
+    "autoCreateDB": true,
+    "allowInbox": true,
+    "autoClean": false,
+    "commandDisabled": [],
+    "eventDisabled": [],
+    "EMAIL": "",
+    "PASSWORD": "",
+    "OTPKEY": "",
+    "BOTNAME": "Nguyễn Thanh Vũ",
+    "PREFIX": "!",
+    "ADMINBOT": [
+        "100036303769206"
+    ],
+    "DATABASE": {
+        "sqlite": {
+            "storage": "data.sqlite"
+        }
+    },
+    "APPSTATEPATH": "appstate.json",
+    "FCAOption": {
+        "forceLogin": true,
+        "listenEvents": true,
+        "pauseLog": true,
+        "logLevel": "error",
+        "selfListen": false,
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Safari/537.36"
+    },
+    "version": "1.2.14",
+    "mungtuoi": {
+        "cooldownTime": 1200000
+    },
+    "menu": {
+        "autoUnsend": true,
+        "delayUnsend": 10
+    },
+    "sim": {
+        "APIKEY": ""
+    },
+    "tikvideo": {
+        "APIKEY": "a012e05802msh4ce48bff26d5c0ap151d85jsn4edde7f89de0"
+    },
+    "work": {
+        "cooldownTime": 6000
+    },
+    "working": {
+        "cooldownTime": 600
+    },
+    "log": {
+        "enable": true
+    }
+}
